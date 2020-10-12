@@ -40,23 +40,23 @@ color:white;
 </div>
 <h1 align="left" style="font-size: medium;color: #4d4d69;">Hi Guest..</h1>
 <h2 align="left" style="position: absolute;top: 80px;left: 328px;color: #4d4d69;">WELCOME TO YOUR ACCOUNT OVERVIEW</h2><br>
-<!--<section class="wlp-login-message-content" style="left: 120px;top: 210px;">
+<section class="wlp-login-message-content" style="left: 120px;top: 210px;">
 <b><p style="text-align: center;font-size: 25px;">DIGITAL TV</p></b>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:65px;">Create</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:69px;">View</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:52px;">Configure</a><br>
-</section>-->
+</section>
 <section class="wlp-login-message-content" style="left: 380px;top: 210px;">
 <b><p style="text-align: center;font-size: 25px;">BROADBAND</p></b>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:67px;">Create</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:71px;">View</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:54px;">Configure</a><br>
 </section>
-<section class="wlp-login-message-content" style="left: 640px;top: 210px;">
+<!--<section class="wlp-login-message-content" style="left: 640px;top: 210px;">
 <b><p style="text-align: center;font-size: 25px;">REPAIR</p></b>
 <a href="avncreatepage.jsp" style="color: white;font-size: 20px;position: absolute;left:71px;">Create</a><br>
 <a href="${pageContext.request.contextPath}/viewticket.do" style="color: white;font-size: 20px;position: absolute;left:75px;">View</a><br>
-</section>
+</section>-->
 <section class="wlp-login-message-content" style="left: 900px;top: 210px;">
 <b><p style="text-align: center;font-size: 25px;">PAYMENT</p></b>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:69px;">Create</a><br>

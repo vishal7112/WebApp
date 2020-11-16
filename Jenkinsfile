@@ -37,6 +37,9 @@ node('master') {
     stage('Staging'){
         sh "echo Staging"
     }
+    
+    stage('build and publish')
+    deploy adapters: [tomcat7(credentialsId: 'trainer-tomcat', path: '', url: 'http://40.90.234.64:8080/')], contextPath: '/QAwebapp', war: '**/*.war'
     stage('Production'){
         sh "echo Production"
     }
